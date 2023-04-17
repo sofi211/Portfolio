@@ -1,7 +1,7 @@
 
 # Прогнозирование оттока клиентов для оператора связи
 
-*Python, Pandas, NumPy, CatBoost, Matplotlib, Seaborn, Skikit learn, GridSearchCV, OneHotEncoder*
+*Python, Pandas, NumPy, CatBoost, Matplotlib, Seaborn, Scikit-learn, GridSearchCV, OneHotEncoder*
 
 
 ### Задача проекта - построить модель машинного обучения для бинарной классификации для прогнозирования оттока клиентов.
